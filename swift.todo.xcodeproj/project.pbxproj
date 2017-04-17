@@ -193,10 +193,12 @@
 				TargetAttributes = {
 					0C129CE61EA400B2006C5760 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 94D7J98V9G;
 						ProvisioningStyle = Automatic;
 					};
 					0C129CFA1EA400B2006C5760 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 94D7J98V9G;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 0C129CE61EA400B2006C5760;
 					};
@@ -414,6 +416,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 94D7J98V9G;
 				INFOPLIST_FILE = swift.todo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alfredchoi.swift-todo";
@@ -426,6 +429,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 94D7J98V9G;
 				INFOPLIST_FILE = swift.todo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alfredchoi.swift-todo";
@@ -439,6 +443,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 94D7J98V9G;
 				INFOPLIST_FILE = swift.todoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alfredchoi.swift-todoTests";
@@ -453,6 +458,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 94D7J98V9G;
 				INFOPLIST_FILE = swift.todoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alfredchoi.swift-todoTests";
